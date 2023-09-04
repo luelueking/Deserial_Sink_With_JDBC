@@ -11,7 +11,7 @@
 > ...
 >
 > 不妨试试以下JDBC与原生反序列化的结合
-> 以下sink均为getter触发，可配合cb、fj、jackson等链子使用
+> (以下sink均为getter触发，可配合cb、fj、jackson等链子使用)
 
 ---
 
